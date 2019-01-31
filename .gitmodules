@@ -1,0 +1,3 @@
+[submodule "Voronoi-Treemap-Library"]
+	path = Voronoi-Treemap-Library
+	url = https://github.com/dlesl/Voronoi-Treemap-Library

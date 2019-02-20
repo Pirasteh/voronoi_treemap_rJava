@@ -1,5 +1,5 @@
 # The following is mostly copy-pasted from ggplot's `geom_text` (GPL licence)
-
+library(grid)
 library(ggplot2)
 library(dplyr)
 Rcpp::sourceCpp("scale_rect_to_poly.cpp")

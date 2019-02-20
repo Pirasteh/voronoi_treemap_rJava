@@ -8,7 +8,7 @@ Voronoi treemaps in R using [Voronoi-Treemap-Library](https://github.com/ArlindN
 Install prerequisites:
 For debian/ubuntu:
 ```
-$ sudo apt install r-cran-rjava gradle
+$ sudo apt install r-cran-rjava gradle openjdk-8-jdk-headless
 ```
 Then, in R:
 ```
